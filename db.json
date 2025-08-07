@@ -1,0 +1,34 @@
+{
+    "fotos": [
+      {
+        "id": "1",
+        "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczOwIiSNqamJshm40P6PMSWqOPr26rKYc9VmudZnE55vPygcdLiLhC-9Or-KNwj-GIoqvAJKbyYuXgQMvj4sHQheFpU6iw=w1980-h2636-s-no-gm?authuser=0",
+        "legenda": "Corredorzinho do intervalo",
+        "data": "31/07/2025"
+      },
+      {
+        "id": "2",
+        "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczPenChb-bl4zYhE3NSXRdbHGDQJ2RCsqCOCZ05atkLKGnIsOI8T7LWTTxv9FH4e0APVuZGLYTMFVFKpg8RT5OT20sZyzA=w1980-h2636-s-no-gm?authuser=0",
+        "legenda": "Canto onde meus amigos e eu nos reunimos também",
+        "data": "31/07/2025"
+      },
+      {
+        "id": "3",
+        "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczMeumQMsP8xLVEEq7ADxWevrp5Qy715nqkbRfgq0G0o6yx_wqsrnkZC=w3280-h2464-s-no-gm?authuser=0",
+        "legenda": "Carros incríveis",
+        "data": "31/07/2025"
+      },
+      {
+        "id": "4",
+        "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczPa_ZSSnnkItdCATnO9oti-gqAdJ9q750zZEFLSPFHRaEK0Ecwfo8eJ=w3280-h2464-s-no-gm?authuser=0",
+        "legenda": "Melhor bebedouro",
+        "data": "31/07/2025"
+      },
+      {
+        "id": "5",
+        "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczNQU5wh8lKyXBOIbU2vfJCvL_pD5UWAYPcxYV9TarzQpBHpbFzjEFYF=w3510-h2636-s-no-gm?authuser=0",
+        "legenda": "Azulejo muito legal",
+        "data": "31/07/2025"
+      }
+    ]
+}
